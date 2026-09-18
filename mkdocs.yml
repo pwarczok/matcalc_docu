@@ -45,6 +45,8 @@ nav:
       - Thermo-physical property simulation: examples/tprops.md
       - Long-range diffusion and diffusion coupled with precipitation: examples/diffusion.md
       - Thermal simulations: examples/therm_sims.md
+    - Use-cases:
+      - Sigma phase duplex stainless steel thermodynamics: usecases/sigma_duplex_thermodynamics.md
     - API: https://www.matcalc.at/api
   - References:
     - Scripts: scripts.md
