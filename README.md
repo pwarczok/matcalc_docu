@@ -14,7 +14,7 @@ reload automatically on changes to source files. Source files are located in the
 
 ## Publishing
 
-The live site (https://pfandl.github.io/matcalc_docu/) is built and deployed automatically by
+The live site (https://pwarczok.github.io/matcalc_docu/) is built and deployed automatically by
 GitHub Actions (`.github/workflows/pages.yml`) on every push to `main` - GitHub Pages is
 configured to serve from that workflow, not from a committed folder. Just commit and push; it
 takes a couple of minutes for changes to go live, and you can watch progress on the repo's
@@ -31,7 +31,7 @@ not track generated files.
 ## Layout-comparison previews
 
 Alongside the live site, four alternative visual directions are built and published to
-https://pfandl.github.io/matcalc_docu/preview/ :
+https://pwarczok.github.io/matcalc_docu/preview/ :
 
 | Variant | Config | What it is |
 | --- | --- | --- |

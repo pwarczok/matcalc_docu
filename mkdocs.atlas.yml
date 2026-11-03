@@ -2,7 +2,7 @@
 # Material base, top nav tabs, TOC folded into the left nav, generous reading column.
 INHERIT: mkdocs.base.yml
 
-site_url: https://pfandl.github.io/matcalc_docu/preview/atlas/
+site_url: https://pwarczok.github.io/matcalc_docu/preview/atlas/
 
 theme:
   name: material

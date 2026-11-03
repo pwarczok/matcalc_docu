@@ -2,7 +2,7 @@
 # Material base, three-pane (left nav + right TOC), serif headings.
 INHERIT: mkdocs.base.yml
 
-site_url: https://pfandl.github.io/matcalc_docu/preview/handbook/
+site_url: https://pwarczok.github.io/matcalc_docu/preview/handbook/
 
 theme:
   name: material

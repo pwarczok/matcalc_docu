@@ -2,7 +2,7 @@
 # + the section-index fix already on main). The baseline to compare against.
 INHERIT: mkdocs.base.yml
 
-site_url: https://pfandl.github.io/matcalc_docu/preview/current/
+site_url: https://pwarczok.github.io/matcalc_docu/preview/current/
 
 theme:
   name: readthedocs

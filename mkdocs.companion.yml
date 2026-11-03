@@ -2,7 +2,7 @@
 # Material base, one rail (TOC folded into the left nav), big prev/next footer.
 INHERIT: mkdocs.base.yml
 
-site_url: https://pfandl.github.io/matcalc_docu/preview/companion/
+site_url: https://pwarczok.github.io/matcalc_docu/preview/companion/
 
 theme:
   name: material

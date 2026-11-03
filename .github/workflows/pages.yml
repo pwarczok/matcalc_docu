@@ -3,12 +3,12 @@ name: Deploy site + layout previews
 # Builds the live site from mkdocs.yml AND the four layout-comparison
 # variants, then publishes everything to GitHub Pages:
 #
-#   https://pfandl.github.io/matcalc_docu/                  - live site (unchanged)
-#   https://pfandl.github.io/matcalc_docu/preview/          - comparison landing page
-#   https://pfandl.github.io/matcalc_docu/preview/current/  - baseline (readthedocs)
-#   https://pfandl.github.io/matcalc_docu/preview/handbook/ - proposal A
-#   https://pfandl.github.io/matcalc_docu/preview/companion/- proposal B
-#   https://pfandl.github.io/matcalc_docu/preview/atlas/    - proposal C
+#   https://pwarczok.github.io/matcalc_docu/                  - live site (unchanged)
+#   https://pwarczok.github.io/matcalc_docu/preview/          - comparison landing page
+#   https://pwarczok.github.io/matcalc_docu/preview/current/  - baseline (readthedocs)
+#   https://pwarczok.github.io/matcalc_docu/preview/handbook/ - proposal A
+#   https://pwarczok.github.io/matcalc_docu/preview/companion/- proposal B
+#   https://pwarczok.github.io/matcalc_docu/preview/atlas/    - proposal C
 #
 # One-time setup: repo Settings -> Pages -> Source -> "GitHub Actions".
 # (That replaces the current "deploy from branch /docs" mode; the committed
